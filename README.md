@@ -25,4 +25,4 @@ the notebook `Sci_BERT_exp_02_01.ipynb` implements the model using **PyTorch** a
 ## Results and models
 
 All the models are again present in [OneDrive](https://utoronto-my.sharepoint.com/personal/m_alexopoulos_utoronto_ca/_layouts/15/onedrive.aspx?ct=1622420717026&or=OWA%2DNT&cid=b61b51bf%2Da6d6%2D0169%2D7600%2D49e4c16ef20f&originalPath=aHR0cHM6Ly91dG9yb250by1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC9tX2FsZXhvcG91bG9zX3V0b3JvbnRvX2NhL0VzbkpWdmY3X1lSRnJveXlMdTVPcVpjQk0tR24zMV9FNEltbFZsMGd4cm5EaVE%5FcnRpbWU9T05DQWtNb2oyVWc&id=%2Fpersonal%2Fm%5Falexopoulos%5Futoronto%5Fca%2FDocuments%2FA%5FVerma%5Fwork%2Fexp%5F01%28arXiv%29) 
-abd the results are summarized in the `arXiv_Classifier.pdf`
+and the results are summarized in the `arXiv_Classifier.pdf`
